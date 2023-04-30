@@ -1,0 +1,21 @@
+h1{
+    margin: 0 auto;
+    text-align: center;
+}
+
+table{
+   
+    color: aliceblue;
+    background-color: #0090c9;
+    border-collapse: collapse;
+    height: 100px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+table,
+th,
+td{
+    padding: 10px 50px;
+    border: 1px solid black;
+}
